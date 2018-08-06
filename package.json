@@ -6,9 +6,15 @@
   "directories": {
     "test": "test"
   },
+<<<<<<< HEAD
   "scripts": {
     "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
   },
+=======
+"scripts": {
+  "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+},
+>>>>>>> 9bb9a81db49e64f11731bd3eed288bf2b6457222
   "repository": {
     "type": "git",
     "url": "git+https://github.com/critsmet/npm-lab-dumbo-web-060418.git"
@@ -20,7 +26,11 @@
   },
   "homepage": "https://github.com/critsmet/npm-lab-dumbo-web-060418#readme",
   "dependencies": {
+<<<<<<< HEAD
     "learn-browser": "^0.1.17",
     "moment": "^2.22.2"
+=======
+    "learn-browser": "^0.1.17"
+>>>>>>> 9bb9a81db49e64f11731bd3eed288bf2b6457222
   }
 }
